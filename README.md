@@ -1,5 +1,5 @@
-# vignan-fake-product-identification-system
-Official Repo of my work for a team at Vignan
+# project repo
+Official Repo of my work for a team at KITS Guntur
 
 # Procedure
 
